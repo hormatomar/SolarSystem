@@ -16,6 +16,9 @@ public class Main {
 
 
 
+        PLANET1 narwhal=new PLANET1();
+        narwhal.color=
+
 
     }
 }
