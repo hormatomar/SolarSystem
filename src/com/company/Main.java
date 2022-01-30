@@ -15,6 +15,13 @@ public class Main {
         Solana.temp="455353456c";
 
 
+        // working on planet2 feature
+
+        planet2 perry=new planet2();
+        perry.color="yellow";
+        perry.size="3453";
+
+
 
         PLANET1 narwhal=new PLANET1();
         narwhal.color=
